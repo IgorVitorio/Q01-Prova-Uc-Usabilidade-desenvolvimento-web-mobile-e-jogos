@@ -1,1 +1,2 @@
 # Q01-Prova-Uc-Usabilidade-desenvolvimento-web-mobile-e-jogos
+Utilizando os conhecimentos sobre HTML + CSS e Javascript em um único  arqivo, crie um formulário para cadastro de currículo que contenha:  Nome (texo), Endereço (texto), numero da casa (numero), cidade (texto),  estado (combo), data de nascimento (data), formação acadêmica (caixa de  texto), Experiência profissional (caixa de texo), curso extra (caixa de  texo). O formulário deverá ter uma validação em javascript após enviar  através do botão submit. O formulário deverá está bem formatado utilizando css.
